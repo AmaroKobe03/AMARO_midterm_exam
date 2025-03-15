@@ -1,0 +1,26 @@
+{
+  "name": "amaro_midterm_intprog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmaroKobe03/amaro_midterm_intprog_repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AmaroKobe03/amaro_midterm_intprog_repository/issues"
+  },
+  "homepage": "https://github.com/AmaroKobe03/amaro_midterm_intprog_repository#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6"
+  }
+}
