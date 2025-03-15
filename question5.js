@@ -3,7 +3,7 @@ const { Sequelize, DataTypes } = require('sequelize');
 
 // Initialize Express application
 const app = express();
-const PORT = 3306;
+const PORT = 3000;
 
 // Set up Sequelize connection to MySQL database
 const sequelize = new Sequelize('database_name', 'username', 'password', {
